@@ -15,7 +15,7 @@ userdata = "userdata.sh"
 
 userdata2 = "userdata2.sh"
 
-ami = "Enter AMI ID"
+ami = "AMI ID"
 
 instance_type = "instance-type" # You can use Free Tiar to run this test project.
 
